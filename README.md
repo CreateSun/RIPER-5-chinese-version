@@ -9,4 +9,4 @@
 
 中文版在：README_zh.md
 
- [英文原文：](https://forum.cursor.com/t/i-created-an-amazing-mode-called-riper-5-mode-fixes-claude-3-7-drastically/65516)
+ [英文原文](https://forum.cursor.com/t/i-created-an-amazing-mode-called-riper-5-mode-fixes-claude-3-7-drastically/65516)
