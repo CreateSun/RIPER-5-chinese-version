@@ -1,6 +1,6 @@
 # RIPER-5 MODE: STRICT OPERATIONAL PROTOCOL
 
-> This is a fork about cursor rule
+> Cursor全局规则 RIPER-5 MODE: STRICT OPERATIONAL PROTOCOL 的中文版本 
 
 origin english version: README_en.md
 
